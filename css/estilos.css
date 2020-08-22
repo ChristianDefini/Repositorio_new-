@@ -1,3 +1,52 @@
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:css/estilos.css
+body
+{
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+#post
+{
+    padding: 1em;
+}
+========
+>>>>>>> 78f1864c665acc16f60a9d56dcbef9c0ee295163
 body
 {
     background: #1e1f24;
@@ -50,3 +99,16 @@ body
     background: white;
     padding: 1em;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+}
+>>>>>>> footer
+>>>>>>>> 78f1864c665acc16f60a9d56dcbef9c0ee295163:css/estilos.css.css
+>>>>>>> 78f1864c665acc16f60a9d56dcbef9c0ee295163
